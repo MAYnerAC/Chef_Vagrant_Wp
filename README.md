@@ -1,4 +1,5 @@
-# Despliegue de Wordpress usando Vagrant y Chef
+# Examen de la unidad II(Practica) - Despliegue de Wordpress usando Vagrant y Chef
+# Alumno: Mayner Gonzalo Anahua Coaquira
 
 El Objetivo de este proyecto es desplegar Wondpress usando Vagrant y Chef.
 
